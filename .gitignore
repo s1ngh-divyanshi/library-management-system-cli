@@ -1,0 +1,13 @@
+# Compiled class files
+*.class
+out/
+target/
+build/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Serialized runtime data
+*.dat
+.DS_Store
